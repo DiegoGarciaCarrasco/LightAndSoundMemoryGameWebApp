@@ -40,9 +40,8 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![LSMG-1](https://user-images.githubusercontent.com/58459845/161372220-7233bbf6-449d-42d3-9e87-a1eee01f5819.gif)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![LSMG-2](https://user-images.githubusercontent.com/58459845/161372772-6a3242fb-45c4-44c3-9fef-fe6775d615d4.gif)
+![LSMG-3](https://user-images.githubusercontent.com/58459845/161372786-cc534145-53b3-46ae-95cf-4c32ff9e6016.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
