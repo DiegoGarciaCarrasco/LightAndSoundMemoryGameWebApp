@@ -6,7 +6,7 @@ Submitted by: **Diego Garcia-Carrasco**
 
 Time spent: **2.5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/light-and-sound-memory-game-dagc
 
 ## Required Functionality
 
