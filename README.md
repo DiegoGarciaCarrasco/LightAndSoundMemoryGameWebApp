@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
+![LSMG-1](https://user-images.githubusercontent.com/58459845/161372220-7233bbf6-449d-42d3-9e87-a1eee01f5819.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
