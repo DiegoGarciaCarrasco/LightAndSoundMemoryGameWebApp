@@ -1,8 +1,6 @@
 # Pre-work - *Memory Game*
 
-**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
-
-Submitted by: **Diego Garcia-Carrasco**
+**Memory Game** is a Light & Sound Memory game. 
 
 Time spent: **2.5** hours spent in total
 
@@ -20,7 +18,7 @@ The following **required** functionality is complete:
 * [X] User wins the game after guessing a complete pattern
 * [X] User loses the game after an incorrect guess
 
-The following **optional** features are implemented:
+The following **optional** features can be implemented:
 
 * [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
@@ -32,9 +30,6 @@ The following **optional** features are implemented:
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [ ] User has a limited amount of time to enter their guess on each turn
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
 
@@ -59,12 +54,6 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
 
 [If I had extra hours to work on this project, I would focus on adding features to the game like different game patterns and different game levels. The game levels would be beginner, medium and advanced and would be based on showing the game pattern in less time causing more difficulty to remember a certain pattern. On the other hand, I would add a timer on the screen for the player to see how long it takes to complete a game and show the average time spent winning games. Another feature that I would like to implement in this game would be to show the percentage of games won and the percentage of games lost]
-
-
-
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](your-link-here)
 
 
 ## License
