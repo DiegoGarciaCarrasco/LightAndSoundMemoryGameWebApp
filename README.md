@@ -48,15 +48,15 @@ The following **optional** features can be implemented:
 
 [No outside resources were used]
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+2. What was a challenge you encountered in creating this submission ? How did you overcome it?
 
 [Initially, when I reviewed the pre-work required to apply to the SITE Program, I thought I would have to download some specialized IDE to develop web applications like Visual Studio Code or Atom. This would have involved more time and resources on my laptop; however, through the pre-work guidelines, I was able to learn about the Glitch.com website, which simplified the required web application development time significantly. On the other hand, when I was developing this project, at first I didn't understand the meaning of some keywords and peculiar rules used in the javascript's syntax; however, after carefully reading the documentation provided in the guide, I was able to understand the semantics of this programming language. In another instance, thoroughly understanding the logic used in the game was a challenge and a great motivation when developing this project. Due to my computer science classes, I have prior knowledge of the use of variables, data structures, and the interconnection of functions; however, employing the use of these components in a real-life case like the creation of this game was very beneficial in taking my knowledge to the next level. To understand the logic used in this program, I first focused on understanding why each variable, constant, and function were declared. Then, I observed and kept track of how the values of these variables were used and changed throughout the execution of each function. This way I was able to understand the logic behind the program. Undoubtedly, through the development of this program, I have increased my knowledge about web development and the use of algorithms]
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+3. What questions about web development do you have after completing your submission?
 
 [After completing this project, my enthusiasm to further understand the syntax of HTML, CSS, and JavaScript increased. On the other hand, I wonder what are the best practices when integrating HTML, CSS, and JavaScript code in a project since I am interested in basing my style of web development on resource optimization. I'm also interested in understanding when I should use a robust web development IDE like Visual Studio and when I should use a web-based IDE like Glitch.com. Finally, I would like to understand the use of frameworks used in web development]
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific.
 
 [If I had extra hours to work on this project, I would focus on adding features to the game like different game patterns and different game levels. The game levels would be beginner, medium and advanced and would be based on showing the game pattern in less time causing more difficulty to remember a certain pattern. On the other hand, I would add a timer on the screen for the player to see how long it takes to complete a game and show the average time spent winning games. Another feature that I would like to implement in this game would be to show the percentage of games won and the percentage of games lost]
 
