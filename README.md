@@ -56,7 +56,7 @@ The following **optional** features can be implemented:
 
 [After completing this project, my enthusiasm to further understand the syntax of HTML, CSS, and JavaScript increased. On the other hand, I wonder what are the best practices when integrating HTML, CSS, and JavaScript code in a project since I am interested in basing my style of web development on resource optimization. I'm also interested in understanding when I should use a robust web development IDE like Visual Studio and when I should use a web-based IDE like Glitch.com. Finally, I would like to understand the use of frameworks used in web development]
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific.
+4. If you had a few more hours to work on this project, what would you spend them doing?
 
 [If I had extra hours to work on this project, I would focus on adding features to the game like different game patterns and different game levels. The game levels would be beginner, medium and advanced and would be based on showing the game pattern in less time causing more difficulty to remember a certain pattern. On the other hand, I would add a timer on the screen for the player to see how long it takes to complete a game and show the average time spent winning games. Another feature that I would like to implement in this game would be to show the percentage of games won and the percentage of games lost]
 
