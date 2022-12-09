@@ -8,7 +8,7 @@ Link to project: https://glitch.com/edit/#!/light-and-sound-memory-game-dagc
 
 ## Required Functionality
 
-The following **required** functionality is complete:
+The following functionality is complete:
 
 * [X] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
 * [X] "Start" button toggles between "Start" and "Stop" when clicked. 
@@ -18,7 +18,7 @@ The following **required** functionality is complete:
 * [X] User wins the game after guessing a complete pattern
 * [X] User loses the game after an incorrect guess
 
-The following **optional** features can be implemented:
+The following features can be implemented:
 
 * [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
