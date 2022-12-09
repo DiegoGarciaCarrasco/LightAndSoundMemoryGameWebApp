@@ -45,7 +45,7 @@ The following features can be implemented:
 
 
 
-[//]: # "Comment"
+<!---
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
@@ -63,7 +63,7 @@ The following features can be implemented:
 
 [If I had extra hours to work on this project, I would focus on adding features to the game like different game patterns and different game levels. The game levels would be beginner, medium and advanced and would be based on showing the game pattern in less time causing more difficulty to remember a certain pattern. On the other hand, I would add a timer on the screen for the player to see how long it takes to complete a game and show the average time spent winning games. Another feature that I would like to implement in this game would be to show the percentage of games won and the percentage of games lost]
 
-[//]: # (Comment)
+-->
 
 ## License
 
