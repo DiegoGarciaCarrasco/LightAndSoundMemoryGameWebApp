@@ -8,7 +8,7 @@ Link to project: https://glitch.com/edit/#!/light-and-sound-memory-game-dagc
 
 ## Game Functionality
 
-* [X] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [X] Game interface has a heading (h1 tag), a line of body text (p tag), and four colored buttons
 * [X] "Start" button toggles between "Start" and "Stop" when clicked. 
 * [X] Game buttons each light up and play a sound when clicked. 
 * [X] Computer plays back sequence of clues including sound and visual cue for each button
