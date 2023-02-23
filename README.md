@@ -6,9 +6,7 @@
 Link to project: https://glitch.com/edit/#!/light-and-sound-memory-game-dagc
 -->
 
-## Required Functionality
-
-The following functionality is complete:
+## Game Functionality
 
 * [X] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
 * [X] "Start" button toggles between "Start" and "Stop" when clicked. 
