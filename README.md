@@ -17,6 +17,7 @@ The following functionality is complete:
 * [X] User wins the game after guessing a complete pattern
 * [X] User loses the game after an incorrect guess
 
+<!--
 The following features can be implemented:
 
 * [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
@@ -28,7 +29,7 @@ The following features can be implemented:
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [ ] User has a limited amount of time to enter their guess on each turn
-
+-->
 
 ## Video Walkthrough (GIF)
 
