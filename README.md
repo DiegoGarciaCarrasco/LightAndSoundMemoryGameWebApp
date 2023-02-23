@@ -2,8 +2,9 @@
 
 **Memory Game** is a Light & Sound Memory game. 
 
-
+<!--
 Link to project: https://glitch.com/edit/#!/light-and-sound-memory-game-dagc
+-->
 
 ## Required Functionality
 
