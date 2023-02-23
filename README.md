@@ -2,7 +2,6 @@
 
 **Memory Game** is a Light & Sound Memory game. 
 
-Time spent: **2.5** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/light-and-sound-memory-game-dagc
 
